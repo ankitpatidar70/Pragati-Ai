@@ -16,16 +16,7 @@ The objective of this project is to use AI and open source technology to help po
 
 By using open source technologies, we also hope to foster a community of farmers and developers who can collaborate and continuously improve the accuracy and utility of the tool. Let's use the power of AI and open source principles to empower poor farmers in India and beyond!
 
-## Project Workflow
-Below are some of the stages of this project for sucessfull development and deployment of both frontend and backend services.
-
-- Data Collection & ML model training
-    - In this stage we collect the required training/testing datasets for building the crop & fertilizer recommendation models. Find training notebook [here.](https://github.com/deepeshdm/CropFusionAI-Backend/tree/main/notebooks)
-- Backend Deployment of ML model API's
-    - Once we have build the ML models we deploy and expose them as API. In our case, we have opted for FastAPI for building the backend services [here](https://github.com/deepeshdm/CropFusionAI-Backend)
-- Frontend Interface with 3D model
-    - Once the backend has been setup , we create a user friendly frontend application with ReactJS, so that even non-technical people can easily interact with the ML models.
-
+##
 <div align="center">
 <img src="/src/assets/phishr-demo.gif" width="80%"/>
 </div>
@@ -54,12 +45,6 @@ npm start
 - Training the ML models on a larger dataset to provide generalized results.
 - Adding cache support to speed up output time.
 
-
-## Links to Resources
-- Backend Code for Rest API's [here](https://github.com/deepeshdm/CropFusionAI-Backend)
-- Crop Recommendation Dataset [here](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
-- Fertilizer Recommendation Dataset [here](https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction)
-- 3D Model [here](https://sketchfab.com/3d-models/corn-field-scarecrow-af3361986a744421bc93c8a78caf7d89)
 
 
 
