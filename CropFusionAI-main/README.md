@@ -1,26 +1,13 @@
-<div align="center"> <h1>  👩‍🌾🌿 CropFusionAI  </h1> </div>
+<div align="center"> <h1>👩‍🌾🌱 CropFusionAI</h1> </div>
+An intelligent, open-source solution designed to guide farmers in selecting the most suitable crops and fertilizers based on real-time environmental and soil conditions. Powered by machine learning, CropFusionAI evaluates parameters like soil nutrients, rainfall, humidity, and more to recommend the ideal crop from 22 different categories.
 
-
-An Open source Crop and Fertilizer Recommendation tool for Farmers. Machine Learning enabled system that recommends the best crop to grow from across 22 different classes of crops based on various metrics including soil type, rainfall, humidity, and nutrient levels.
-
-<div align="center">
-<img src="/assets/demo.gif" width="95%"/>
-</div>
+<div align="center"> <img src="/assets/demo.gif" width="95%"/> </div>
 
 ## 🎯 Objective
-The objective of this project is to use AI and open source technology to help poor farmers in India grow the best crops and fertilize like a pro. Our tool provides reliable and accessible recommendations based on local soil and weather conditions, helping farmers optimize their crop yields and improve their economic livelihoods.
+The goal of CropFusionAI is to harness the potential of AI and open-source innovation to uplift small-scale farmers—especially those in rural India—by enabling smarter agricultural decisions. Our system delivers actionable insights tailored to local conditions, helping farmers increase productivity and enhance their livelihoods sustainably.
 
-<div align="center">
-<img src="/assets/farmers.jpg" width="65%"/>
-</div>
-
-By using open source technologies, we also hope to foster a community of farmers and developers who can collaborate and continuously improve the accuracy and utility of the tool. Let's use the power of AI and open source principles to empower poor farmers in India and beyond!
-
-##
-<div align="center">
-<img src="/src/assets/phishr-demo.gif" width="80%"/>
-</div>
-
+<div align="center"> <img src="/assets/farmers.jpg" width="65%"/> </div>
+By making the tool open-source, we aim to build a collaborative space where developers, agronomists, and farmers come together to refine and enhance this platform for greater impact. Let’s empower farming communities through technology!
 ## 👩‍💻To Run (Locally)
 
 1. Git clone the project repository on your local system
